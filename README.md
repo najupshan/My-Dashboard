@@ -24,3 +24,31 @@ Steps:
 5.	Added tooltip (created calculated field max(1))and navigation button for Recommendation
 6.	Used Interactive Filters
 ![Screenshot 2024-10-09 110116](https://github.com/user-attachments/assets/33d9b213-020f-4b29-b922-108acb64dce1)
+
+DHL Analysis:
+DHL is Global logistic and international shipping company.Our goal is to crate KPI for Orders,Products sold,Revenue overhead costs,Availability,Defect ratio, Charts like Products group details,Revenue and Products sold. 
+![Screenshot 2024-10-17 094826](https://github.com/user-attachments/assets/c39b5574-3bc1-4dde-873b-3822f247f9e3)
+
+
+Airbnb analysis
+It is a marketplace for long and short home stay.My aim to create Total Booking,Total Cancellation ,Revenue,Average duration of stay,Average rating,and Detailed monthly analysis and Day wise booking analysis.
+![Screenshot 2024-10-10 072058](https://github.com/user-attachments/assets/39522588-e8a2-4818-a89a-6fb6dcb92a9d)
+
+![Screenshot 2024-10-10 072225](https://github.com/user-attachments/assets/c4812469-0577-4dcf-81d3-f24a68cd5e24)
+
+
+Zomato Analysis:
+zomato is a Food delivery company,my aim to findout Bookings,Sucessful or failed booking,Total order amount,Overhead charges ,Chart for state level,Cancelled order reason,Delivery person level etc.
+![Screenshot 2024-10-17 094252](https://github.com/user-attachments/assets/e42d7324-95b6-42fc-856d-abd860770487)
+
+E-Commerce Sales Analysis:
+The Dashboard is created by using Powerbi,Aim to create KPI for Year to date sales,Profit,Quantity,Profit margin, and the Chart for Sales,Products,Region,Map for Customer and Region etc.
+![Screenshot 2024-10-17 095347](https://github.com/user-attachments/assets/49761433-8b5d-421e-8536-386c713fa920)
+
+
+ABC Call Center Analysis:
+This is also a Powerbi analysis, contain many KPIs,Charts
+![Screenshot 2024-10-17 095243](https://github.com/user-attachments/assets/62c295fa-37f7-4d19-9d9d-ca5c2bd8a870)
+
+![Screenshot 2024-10-17 095222](https://github.com/user-attachments/assets/d38d303b-80d5-4b46-84c4-532dec1d754d)
+
